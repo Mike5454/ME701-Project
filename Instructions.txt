@@ -1,0 +1,4 @@
+You need to be sure the directories are changed for your system before trying to run MCNP.
+
+MCNP pho and Neu are keys for the program to show that a material card will be inserted in the empty M1 slot 
+and that the density will appear in the cell card(s) where den is specified
